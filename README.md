@@ -1,4 +1,4 @@
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Hima
 
 💡 *AI/ML Developer | 10+ years of experience | Building GenAI pipelines*  
 🌍 Based in [Pune]  
